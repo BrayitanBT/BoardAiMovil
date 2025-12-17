@@ -1,0 +1,3 @@
+pip install fastapi uvicorn pymupdf scholarly ollama pydantic python-multipart   
+
+py IAServer.py      
